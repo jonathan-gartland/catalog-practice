@@ -12,7 +12,7 @@ export default function RedPage() {
         <div className="product-images">
           <Image
             src="/images/red/red.jpg"
-            alt="Blanton's Special Reserve"
+            alt="Blanton's Red"
             width={800}
             height={600}
             className="product-detail-image"
@@ -27,9 +27,9 @@ export default function RedPage() {
         </div>
         
         <div className="product-detail-info">
-          <h1>Blanton's Special Reserve</h1>
+          <h1>Blanton's Red</h1>
           <p>
-            Savor the exceptional character of Blanton's Special Reserve, a distinguished single barrel 
+            Savor the exceptional character of Blanton's Red, a distinguished single barrel 
             bourbon that embodies the time-honored traditions of Kentucky distilling. Each bottle 
             represents a carefully selected barrel that meets our exacting standards.
           </p>
@@ -39,7 +39,7 @@ export default function RedPage() {
             process develops a smooth, refined character that's both approachable and sophisticated.
           </p>
           <p>
-            Bottled at 80 proof, Blanton's Special Reserve delivers consistent quality and flavor 
+            Bottled at 80 proof, Blanton's Red delivers consistent quality and flavor 
             that makes it perfect for both newcomers to single barrel bourbon and seasoned 
             connoisseurs alike.
           </p>

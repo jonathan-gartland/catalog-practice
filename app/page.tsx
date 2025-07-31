@@ -18,7 +18,7 @@ const products = [
   },
   {
     id: 'red',
-    title: 'Blanton\'s Special Reserve',
+    title: 'Blanton\'s Red',
     description: 'Exceptional single barrel bourbon with distinctive character',
     image: '/images/red/red.jpg',
     href: '/products/red'
@@ -38,7 +38,6 @@ export default function Home() {
       {/* Hero Section */}
       <section className="hero-section">
         <h1>Blanton's Bourbon Collection</h1>
-        <p>Discover our exceptional single barrel bourbon variants</p>
       </section>
 
       {/* Catalog Grid */}
