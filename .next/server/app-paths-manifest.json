@@ -1,5 +1,8 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
+  "/products/black/page": "app/products/black/page.js",
   "/products/gold/page": "app/products/gold/page.js",
-  "/products/black/page": "app/products/black/page.js"
+  "/products/red/page": "app/products/red/page.js",
+  "/products/sftb/page": "app/products/sftb/page.js"
 }
