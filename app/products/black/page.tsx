@@ -34,7 +34,7 @@ export default function BlackPage() {
         </div>
         
         <div className="product-detail-info">
-          <h1>Blanton's Black Label</h1>
+          <h1>Blanton's Black Label ~ Japanese Edition</h1>
           <p>
             Experience the bold and distinctive character of Blanton's Black Label, a premium 
             single barrel bourbon that showcases the artistry of traditional distillation. 

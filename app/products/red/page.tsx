@@ -27,7 +27,7 @@ export default function RedPage() {
         </div>
         
         <div className="product-detail-info">
-          <h1>Blanton's Red</h1>
+          <h1>Blanton's Red ~ Japanese Edition</h1>
           <p>
             Savor the exceptional character of Blanton's Red, a distinguished single barrel 
             bourbon that embodies the time-honored traditions of Kentucky distilling. Each bottle 
